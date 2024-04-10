@@ -1,0 +1,35 @@
+{
+  "name": "org.ivanchaz.cordova.uid",
+  "version": "1.2.0",
+  "description": "Cordova plugin to get unique identifiers: UUID, IMEI, IMSI, ICCID and MAC.",
+  "cordova": {
+    "id": "org.ivanchaz.cordova.uid",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivanchaz/cordova-plugin-uid.git"
+  },
+  "keywords": [
+    "cordova",
+    "uid",
+    "imei",
+    "imsi",
+    "uuid",
+    "sim",
+    "iccid",
+    "mac",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "Ivan Dwijaya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ivanchaz/cordova-plugin-uid/issues"
+  },
+  "homepage": "https://github.com/ivanchaz/cordova-plugin-uid#readme"
+}
